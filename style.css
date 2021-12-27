@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(216, 187, 148);
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    margin: 50px 0;
+}
+
+#row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#unit {
+    display: flex;
+    width: 150px;
+    height: 150px;
+    background-color: brown;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    font-weight: bold;
+}
